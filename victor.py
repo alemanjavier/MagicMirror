@@ -13,7 +13,7 @@ main_group = displayio.Group()
 text_label = Label(
     small_font,
     text="Victor",
-    color=0xFFA500  # Orange
+    color=0xFF6600  # DEEPER ORANGE
 )
 
 display_width = matrixportal.graphics.display.width
